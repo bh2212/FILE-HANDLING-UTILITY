@@ -12,7 +12,7 @@ DURATION: 8 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-##DESCRIPTION OF TASK: The file handling utility task has been successfully runned in the eclipse software platform. 
+## DESCRIPTION OF TASK: The file handling utility task has been successfully runned in the eclipse software platform. 
 
 ### Explanation:
 
@@ -53,10 +53,16 @@ MENTOR: NEELA SANTOSH
 
    ### Output:
 
-Successfully wrote to the file.
+Successfully wrote to the file.  
+
 Reading from the file:
+
 This is the original content of the file.
+
 Successfully modified the file.
+
 Reading from the file after modification:
+
 This is the original content of the file.
+
 This is the appended content.
